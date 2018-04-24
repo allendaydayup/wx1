@@ -1,0 +1,7 @@
+<!--pages/join/join.wxml-->
+<text>pages/join/join.wxml</text>
+<view class='mobile'>
+  <button bindtap='tell'>
+    电话咨询
+  </button>
+</view>
